@@ -7,6 +7,8 @@ public class HitzApplication {
 		              SpringApplication.run(HitzApplication.class, args);
 		               int j = 20;
 		               int k = 30;
+			       String s = nagoor;
 		                System.out.println(+j);
+			       System.out.println(s);
 	}
 	}
