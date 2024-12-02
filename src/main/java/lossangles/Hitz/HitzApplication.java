@@ -7,8 +7,10 @@ public class HitzApplication {
 		              SpringApplication.run(HitzApplication.class, args);
 		               int j = 20;
 		               int k = 30;
-		                System.out.println(+j);
-						System.out.println(+k);
+					        int q = j+k;
+					        int d = j/k;
+		        //Addition j and k veraibles
+			    System.out.println(+q);
 						
 	}
 	}
