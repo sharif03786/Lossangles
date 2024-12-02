@@ -8,5 +8,7 @@ public class HitzApplication {
 		               int j = 20;
 		               int k = 30;
 		                System.out.println(+j);
+						System.out.println(+k);
+						
 	}
 	}
