@@ -7,9 +7,9 @@ public class HitzApplication {
 		              SpringApplication.run(HitzApplication.class, args);
 		               int j = 20;
 		               int k = 30;
-					   int q = j+k;
-		                System.out.println(+j);
-						System.out.println(+q);
+			       int q = j+k;
+		        
+			    System.out.println(+q);
 						
 	}
 	}
