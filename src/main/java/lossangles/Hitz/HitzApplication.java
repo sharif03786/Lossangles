@@ -11,6 +11,8 @@ public class HitzApplication {
 					   int d = j/k;
 		        //Addition j and k veraibles
 			    System.out.println(+q);
+				//String variable declaration
+				String s = "Sharif";
 
 						
 	}
