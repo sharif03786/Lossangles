@@ -8,7 +8,7 @@ public class HitzApplication {
 		               int j = 20;
 		               int k = 30;
 			       int q = j+k;
-		        
+		        //Addition j and k veraibles
 			    System.out.println(+q);
 						
 	}
