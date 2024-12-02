@@ -7,12 +7,14 @@ public class HitzApplication {
 		              SpringApplication.run(HitzApplication.class, args);
 		               int j = 20;
 		               int k = 30;
-					   int q = j+k;
-					   int d = j/k;
+			      int q = j+k;
+			      int d = j/k;
 		        //Addition j and k veraibles
 			    System.out.println(+q);
 				//String variable declaration
 				String s = "Sharif";
+               //Division j and k variables
+			    System.out.println(+d);
 
 						
 	}
